@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="DevRadar" src="./assets/devradar.svg" width="250px" />
+    <img alt="Devradar" title="DevRadar" src="./assets/devradar.svg" width="250px" />
 </h1>
 
 # DevRadar
