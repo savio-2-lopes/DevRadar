@@ -1,12 +1,11 @@
-<h1 align="center">
+<p align="center">
     <img alt="Devradar" title="DevRadar" src="./assets/devradar.svg" width="250px" />
-</h1>
+</p>
 
 <br> 
 
 <p align="center"> 🚀 <strong>DevRadar - 10º Semana Omnistack</strong> 🚧
  </p>
- 
  
 <br>
 
