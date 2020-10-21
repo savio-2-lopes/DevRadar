@@ -2,7 +2,6 @@
     <img alt="Devradar" title="DevRadar" src="./assets/devradar.svg" width="250px" />
 </p>
 
-
 <br> 
 
 <p align="center"> 🚀 <strong>DevRadar - 10º Semana Omnistack</strong> 🚧
@@ -22,10 +21,9 @@
   </a>
 </p>
 
-
 <br> 
 
-# :pushpin: Índice
+## :pushpin: Índice
 
 - [Sobre](#sobre-o-projeto)
 - [Licença](#licenca)
@@ -35,7 +33,7 @@
 
 <a id="sobre-o-projeto"></a>
 
-# 💻 DevRadar
+## 💻 DevRadar
 :rocket: **DevRadar** - é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias. 
 <br>
 Desenvolvido, originalmente, durante a 10º Semana Omnistack, oferecida pela [Rocketseat](https://rocketseat.com.br/).
@@ -44,7 +42,7 @@ Desenvolvido, originalmente, durante a 10º Semana Omnistack, oferecida pela [Ro
 
 <a id="licenca"></a>
 
-# :memo: Licença
+## :memo: Licença
 
 Este projeto está sob a licença do MIT. Veja a [página de licença](https://opensource.org/licenses/MIT) para mais detalhes.
 
@@ -52,12 +50,11 @@ Este projeto está sob a licença do MIT. Veja a [página de licença](https://o
 
 <a id="autor"></a>
 
-# 🦸 Autor
+## 🦸 Autor
         
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=12996798894&text=Hello!)](https://api.whatsapp.com/send?phone=12996798894&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savioaugulopes@gmail.com)
-
 
 Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/savio-lopes/)
